@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RoadSync</string>
+
+    <!-- Language Settings -->
+    <string name="language">Wika</string>
+    <string name="english">Ingles</string>
+    <string name="tagalog">Tagalog</string>
+    <string name="settings_title">Mga Setting ng RoadSync</string>
+    <string name="settings_subtitle">I-configure at i-customize ang mga preference ng iyong app.</string>
+    <string name="logout">Mag-logout</string>
+    <string name="alert_notification_preferences">MGA ALERT AT NOTIPIKASYON</string>
+    <string name="verified_incident_alerts">Mga Na-verify na Ulat</string>
+    <string name="verified_incident_description">Makakatanggap ng abiso tungkol sa mga na-verify na panganib sa kalsada.</string>
+    <string name="flood_severe_alerts">Mga Babala sa Baha at Panganib sa Kalsada</string>
+    <string name="flood_severe_description">Makakatanggap ng babala tungkol sa matinding pagbaha o pagsasara ng kalsada.</string>
+    <string name="notification_proximity_radius">Saklaw ng mga Abiso</string>
+    <string name="offline_data_usage">WALANG INTERNET AT PAGGAMIT NG DATA</string>
+    <string name="offline_sms_fallback">SMS Kapag Walang Internet</string>
+    <string name="offline_sms_description">Mag-ulat ng insidente sa pamamagitan ng SMS kapag walang internet.</string>
+    <string name="auto_compress_photos">Awtomatikong I-compress ang mga Larawan</string>
+    <string name="auto_compress_description">Bawasan ang paggamit ng data sa pamamagitan ng pag-compress ng mga ina-upload na larawan.</string>
+    <string name="download_offline_map">I-download ang Offline Map ng Nasugbu</string>
+    <string name="offline_map_description">I-save ang lokal na datos ng mapa sa iyong device.</string>
+    <string name="emergency_location">EMERGENCY AT LOKASYON</string>
+    <string name="default_emergency_agency">Default na Ahensiya ng Emergency</string>
+    <string name="emergency_contact_number">Numero ng Emergency Contact</string>
+    <string name="phone_number_hint">hal. 09XXXXXXXXX</string>
+    <string name="sms_fallback_description">Ginagamit para sa SMS kapag walang internet.</string>
+    <string name="auto_attach_gps">Awtomatikong Isama ang GPS at Landmark</string>
+    <string name="auto_attach_gps_description">Awtomatikong isama ang datos ng lokasyon kapag nagsusumite ng ulat.</string>
+    <string name="account_app_info">ACCOUNT AT IMPORMASYON NG APP</string>
+    <string name="profile_details">Mga Detalye ng Profile</string>
+    <string name="app_language">Wika ng App</string>
+</resources>
